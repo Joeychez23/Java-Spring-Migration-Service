@@ -1,0 +1,13 @@
+#!/bin/bash
+java -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p1 "/home/cloud-user/storage/2022-01.json" -sd "2022-01-01" -ed "2022-01-31" -f "2022-01.json"
+java -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p1 "/home/cloud-user/storage/2022-02.json" -sd "2022-02-01" -ed "2022-02-28" -f "2022-02.json"
+java -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p1 "/home/cloud-user/storage/2022-03.json" -sd "2022-03-01" -ed "2022-03-31" -f "2022-03.json"
+java -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p1 "/home/cloud-user/storage/2022-04.json" -sd "2022-04-01" -ed "2022-04-30" -f "2022-04.json"
+java -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p1 "/home/cloud-user/storage/2022-05.json" -sd "2022-05-01" -ed "2022-05-31" -f "2022-05.json"
+java -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p1 "/home/cloud-user/storage/2022-06.json" -sd "2022-06-01" -ed "2022-06-30" -f "2022-06.json"
+java -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p1 "/home/cloud-user/storage/2022-07.json" -sd "2022-07-01" -ed "2022-07-31" -f "2022-07.json"
+java -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p1 "/home/cloud-user/storage/2022-08.json" -sd "2022-08-01" -ed "2022-08-31" -f "2022-08.json"
+java -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p1 "/home/cloud-user/storage/2022-09.json" -sd "2022-09-01" -ed "2022-09-30" -f "2022-09.json"
+java -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p1 "/home/cloud-user/storage/2022-10.json" -sd "2022-10-01" -ed "2022-10-31" -f "2022-10.json"
+java -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p1 "/home/cloud-user/storage/2022-11.json" -sd "2022-11-01" -ed "2022-11-30" -f "2022-11.json"
+java -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p1 "/home/cloud-user/storage/2022-12.json" -sd "2022-12-01" -ed "2022-12-31" -f "2022-12.json"

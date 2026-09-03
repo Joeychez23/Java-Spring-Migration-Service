@@ -1,0 +1,13 @@
+#!/bin/bash
+java -Xmx20g -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p3 "/home/cloud-user/storage/2022-01.json" -f "2022-01.json"
+java -Xmx20g -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p3 "/home/cloud-user/storage/2022-02.json" -f "2022-02.json"
+java -Xmx20g -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p3 "/home/cloud-user/storage/2022-03.json" -f "2022-03.json"
+java -Xmx20g -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p3 "/home/cloud-user/storage/2022-04.json" -f "2022-04.json"
+java -Xmx20g -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p3 "/home/cloud-user/storage/2022-05.json" -f "2022-05.json"
+java -Xmx20g -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p3 "/home/cloud-user/storage/2022-06.json" -f "2022-06.json"
+java -Xmx20g -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p3 "/home/cloud-user/storage/2022-07.json" -f "2022-07.json"
+java -Xmx20g -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p3 "/home/cloud-user/storage/2022-08.json" -f "2022-08.json"
+java -Xmx20g -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p3 "/home/cloud-user/storage/2022-09.json" -f "2022-09.json"
+java -Xmx20g -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p3 "/home/cloud-user/storage/2022-10.json" -f "2022-10.json"
+java -Xmx20g -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p3 "/home/cloud-user/storage/2022-11.json" -f "2022-11.json"
+java -Xmx20g -jar /tmp/mysql_data_migration-jar-with-dependencies.jar -p3 "/home/cloud-user/storage/2022-12.json" -f "2022-12.json"
